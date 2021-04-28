@@ -1,10 +1,3 @@
-//ilk constructor oluştu bunun sayesinde ilk state durumumuzu oluşturduk.(state initialization)
-//render metodu çalıştı
-//onClick çalıştı
-// onClick ile beraber show more metodu çalıştı 
-// showMore ile birlikte state drurumu setState ile değişti ve
-// render fonksiyonu triggerlanarak yeniden çalıştı.
-
 import React from "react";
 
 class Collapse extends React.Component {
